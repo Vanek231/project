@@ -1,0 +1,22 @@
+body {
+    background-color: skyblue;
+    padding-left: 120px;
+}
+
+.link {
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+        max-width: 496px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 48px;
+}
+
+.pos {
+    display: flex;
+    gap:30px;
+}
